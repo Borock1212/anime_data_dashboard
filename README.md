@@ -8,6 +8,8 @@ It includes data cleaning, KPI metrics, and multiple pivot charts to explore ind
 ## Link
 **[Anime Dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/1OpV8CJ_FgUHCkgm7SXEChfhtyMhQbYVNupBGjf8fSmA/edit?usp=sharing)**
 
+---
+
 ## Data Cleaning Steps
 - Removed **2,000+ rows** with null or empty cells  
 - Replaced blanks with `"N/A"`  
